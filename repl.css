@@ -1,0 +1,154 @@
+body{
+    background-color: rgb(45, 119, 45);
+}
+.container{
+    display: flex;
+    flex-direction: column;
+    width: 90%;
+    font-family: monospace;
+    font-size: large;
+    margin-left: 30px;
+    color:black;
+
+}
+nav{
+    margin:0 auto;
+    padding: 10px 0;
+    margin-right: 0%;
+}
+ul{
+    text-align: right;
+}
+li{
+    display: inline-block;
+    font-size: x-large;
+}
+nav>ul>li>a{
+    padding:30px;
+    margin-right: 0;
+    text-transform: uppercase;
+    text-decoration:none;
+    display: block;
+    color:rgb(214, 214, 230);
+}
+nav>ul>li>a:hover{
+    background-color: rgba(247, 243, 240, 0.678);
+    color: rgba(18, 53, 30, 0.7)
+}
+#title{
+    color: rgb(214, 214, 231);
+    padding-top: 20px;
+    text-align: center;
+    padding-bottom: 35px;
+    font-size: 50px;
+}
+#first{
+    padding-top: 50px;
+    background-color: rgba(255,255,255, 0.5);
+    font-size: larger;
+}
+#third{
+    padding-top: 30px;
+    text-align: center;
+    font-size: larger;
+    color: rgb(215, 207, 223);
+}
+h2{
+    text-align: center;
+    text-decoration: antiquewhite;
+    padding-top: 40px;
+    padding-bottom: 40px;
+    font-size:xx-large;
+    color: rgb(215, 207, 223);
+    text-transform: uppercase;
+    
+}
+img{
+    height: 250px;
+    width: 370px;
+}
+strong{
+    font-size: 20px ;
+    padding-bottom: 20px;
+}
+.parks{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    
+}
+.waterfalls{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly; 
+}
+.waters{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+}
+.parkNames{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    font-size: x-large;
+    color: rgb(215, 207, 223);
+}
+.fallsNames{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    font-size: x-large;
+    color: rgb(215, 207, 223);
+}
+.watersNames{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    font-size: x-large;
+    color: rgb(215, 207, 223);
+}
+em{
+    font-style: italic;
+}
+strong{
+    padding-bottom: 20px;
+}
+#four{
+    background-color: rgba(255, 255,255, 0.5);
+    font-size: larger;
+}
+#five{
+    background-color: rgba(255,255,255, 0.5);
+    font-size: larger; 
+}
+#six{
+    background-color: rgba(255, 255, 255, 0.5);
+    font-size: larger;
+}
+#about{
+    padding-top: 30px;
+    color:black;
+    background-color: rgba(255,255,255, 0.5);
+    font-size: larger;
+}
+a:hover{
+    background-color: cornsilk;
+}
+#contacts{
+    text-align: center;
+    font-weight: 600;
+    padding-top: 80px;
+    color:black;
+    background-color: rgba(255,255,255, 0.5)
+}
+#places{
+    background-color: rgb(39, 145, 110);
+
+}
+#about2{
+    color: rgba(21, 46, 38, 0.678);
+}
+strong{
+    color:rgb(215, 207, 223);
+}
