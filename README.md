@@ -11,3 +11,6 @@ And it is designed not only for foreigners but also for Rwandans.
 
 ## licence and copyright
 
+MIT License
+
+Copyright (c) 2020 Ingabineza12
